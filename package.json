@@ -1,0 +1,21 @@
+{
+    "name": "material-pure-dark",
+    "displayName": "Material-Pure-Dark",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Pure Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material-Pure-Dark.json"
+            }
+        ]
+    }
+}
