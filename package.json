@@ -2,7 +2,7 @@
     "name": "material-pure-dark",
     "displayName": "Material-Pure-Dark",
     "description": "",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.57.0"
     },
@@ -17,5 +17,9 @@
                 "path": "./themes/Material-Pure-Dark.json"
             }
         ]
+    },
+    "publisher": "Kasperliu",
+    "repository": {
+        "url": "https://github.com/Kasper-Liu/VSC-Material-Pure-Dark-Theme"
     }
 }
